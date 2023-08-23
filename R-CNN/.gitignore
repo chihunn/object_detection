@@ -1,0 +1,13 @@
+.idea
+
+data
+
+__pycache__/
+
+utils/__pycache__/
+
+utils/data/__pycache__/
+
+models/
+
+*.jpg
